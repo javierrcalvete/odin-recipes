@@ -1,0 +1,2 @@
+# odin-recipies
+project: recipes
